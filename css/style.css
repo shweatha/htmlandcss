@@ -4,5 +4,10 @@ a{
 }
 h1{
   font-family: sans-serif;
-   
+
+}
+div{
+  text-align: center;
+  margin: auto;
+  background-color: inherit;
 }

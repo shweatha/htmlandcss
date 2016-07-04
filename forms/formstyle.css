@@ -1,0 +1,17 @@
+form li{
+  list-style: none;
+  margin-bottom: 10px;
+}
+form ul{
+  padding-left: 0px;
+}
+textarea{
+  width: 400px;
+  height: 200px;
+}
+label{
+  display: block;
+  cursor: pointer;
+  font-family: sans-serif;
+padding-bottom: 10px;
+}

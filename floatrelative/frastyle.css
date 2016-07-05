@@ -1,0 +1,25 @@
+#main{
+    background-color:#CCC;
+    width:300px;
+    padding:20px;
+    overflow:hidden;
+    margin:20px 0;
+    position:relative;
+}
+
+#logo{
+    background-color:#eee;
+    width:150px;
+    height:200px;
+    padding:5px;
+    float:left;
+    position:relative;
+    top:10px;
+}
+
+#nav{
+    background-color:#ddd;
+    width:100px;
+    padding:5px;
+    float:left;
+}

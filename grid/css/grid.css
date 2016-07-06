@@ -1,0 +1,24 @@
+
+header h1{
+  background-color: red;
+}
+
+
+nav li{
+  display: inline;
+
+  margin-left: 0;
+  margin-right: 30px;
+}
+.primary{
+  background-color: green;
+  margin: 30px 0;
+}
+aside ul{
+  background-color: grey;
+
+}
+section{
+  box-sizing: border-box;
+  padding: 15px;
+}
